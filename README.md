@@ -1,5 +1,7 @@
 # ☁️🇳🇿 GREENHOUSE GASES IN NEW ZEALAND ☁️🇳🇿
 
+📅️ **Última actualização**:
+
 ℹ️ **Os nossos dados:**
 
 Como alunos que não tem experiência no que toca a procurar dados decidimos, como ponto de partida, procurar simplesmente no google “CSV data” e ver que opções tínhamos para  selecionar os nossos dados. Na nossa pesquisa cruzamo-nos com o website **Stats NZ** que é uma agência de dados oficial da Nova Zelândia de renome logo é,  consequentemente, bastante confiável. Lá encontramos vários conjuntos de dados, desde dados de censos a dados económicos a dados de saúde, mas preferimos ir com dados relacionados com o meio ambiente. Escolhemos este tema não só porque nos diz algo pessoalmente, mas também porque queríamos uma boa mistura de dados escritos e de valores numéricos. Assim chegamos ao ficheiro CSV que decidimos analisar sobre **as emissões de Greenhouses Gases nas regiões da Nova Zelândia nos últimos anos**. 
