@@ -1,7 +1,1 @@
-#lol
-
-
-
-
-
-
+#☁️ GREENHOUSE GASES EMISSIONS IN NEW ZEALAND ☁️
