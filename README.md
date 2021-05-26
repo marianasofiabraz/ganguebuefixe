@@ -13,8 +13,6 @@ Neste conjunto de dados existem alguns valores que estão em falta e, como é ó
 🤔 **Contexto:**
 
 
-❗ 
-
 📚 **Bibliografia:**
 
 Statz NZ: https://www.stats.govt.nz/ 
@@ -25,3 +23,4 @@ Statz NZ: https://www.stats.govt.nz/
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
 | `data` | Data da publicação dos dados | DD-MM-YYYY |
+| `confirmados_arsalentejo` | Casos confirmados na ARS Alentejo     | Inteiro >= 0 |
