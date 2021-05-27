@@ -12,11 +12,11 @@ Neste conjunto de dados existem alguns valores que estão em falta e, como é ó
 
 🤔 **Contexto:**
 
-
-
 📚 **Bibliografia:**
 
 Statz NZ: https://www.stats.govt.nz/ 
+
+**API's:**
 
 📔 **Dicionário dos dados:**
 
