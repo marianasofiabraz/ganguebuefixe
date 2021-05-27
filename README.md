@@ -2,7 +2,7 @@
 
 📅️ **Última actualização**: 27 de maio de 2021
 
-❗️If you would like an english version, please contact me or my colleague.
+❗️If you would like an english version, please contact me or my colleague❗️
 
 ℹ️ **Os nossos dados:**
 
@@ -22,7 +22,7 @@ Statz NZ: https://www.stats.govt.nz/
 
 🧱 **Estrutura:**
 
-`grenhouse.csv`: contém os dados relativos ás emissões de greenhouse gases por região entre 2007 e 2018.
+`grenhouse.csv`: Contém os dados relativos ás emissões de greenhouse gases por região entre 2007 e 2018.
 
 📔 **Dicionário dos dados:**
 
