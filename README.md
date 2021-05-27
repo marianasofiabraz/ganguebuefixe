@@ -28,5 +28,10 @@ Statz NZ: https://www.stats.govt.nz/
 
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
-| `data` | Data da publicação dos dados | DD-MM-YYYY |
-| `confirmados_arsalentejo` | Casos confirmados na ARS Alentejo     | Inteiro >= 0 |
+| `region` | Regiões da Nova Zelândia | ? |
+| `anzsic_descriptor` | Australian New Zealand Standard Industrial Classification, ou seja, o setor que está a produzir os gases estufa | ? |
+| `gas` | Nome do gás estufa emitido | ? |
+| `units` | ? | ? |
+| `magnitude` | ? | ? |
+| `year` | Anos entre 2007 e 2018 a que os valores se referem | Inteiro >= 0 |
+| `data_value` | ? | Inteiro >= 0 |
