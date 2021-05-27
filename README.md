@@ -1,4 +1,4 @@
-# GREENHOUSE GASES IN NEW ZEALAND ☁️🇳🇿
+# GREENHOUSE GASES IN NEW ZEALAND 
 
 📅️ **Última actualização**: 27 de maio de 2021
 
