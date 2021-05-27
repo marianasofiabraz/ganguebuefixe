@@ -16,7 +16,9 @@ Neste conjunto de dados existem alguns valores que estão em falta e, como é ó
 
 Statz NZ: https://www.stats.govt.nz/ 
 
-🧱 **API's:**
+🧱 **Estrutura:**
+
+'greenhousegases.csv'
 
 📔 **Dicionário dos dados:**
 
