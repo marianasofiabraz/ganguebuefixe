@@ -12,6 +12,10 @@ Neste conjunto de dados existem alguns valores que estão em falta e, como é ó
 
 🤔 **Contexto:**
 
+Com o aumento da preocupação em salvar o nosso planeta tornou-se urgente compreender como é que cada zona está ou não a contribuir para isso. Assim, com esta análise das **emissões de gases estufa entre 2007 e 2018 na Nova Zelândia**, conseguimos perceber exatamente o impacto que as suas diversas regiões tem na poluição do ar, no aumento do efeito estufa e na destruição da camada de ozono. 
+
+Eticamente este tipo de dados pareceu-nos correto porque, por um lado, não é uma invasão de **privacidade** dos indivíduos, mas, por outro, permite a quem se encontra numa determinada região na Nova Zelândia **ter conhecimento e ficar consciencializado** dos valores dos gases emitidos por lá. Mais ainda, o conhecimento destes valores é algo extremamente importante para se poder perceber onde estão as regiões mais e menos problemáticas para, futuramente, se poder **arranjar soluções** para reduzir a quantidade de gases estufa emitidos.
+
 📚 **Bibliografia:**
 
 Statz NZ: https://www.stats.govt.nz/ 
