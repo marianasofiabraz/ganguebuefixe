@@ -28,10 +28,10 @@ Statz NZ: https://www.stats.govt.nz/
 
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
-| `region` | Regiões da Nova Zelândia | ? |
-| `anzsic_descriptor` | Australian New Zealand Standard Industrial Classification, ou seja, o setor que está a produzir os gases estufa | ? |
-| `gas` | Nome do gás estufa emitido | ? |
-| `units` | ? | ? |
-| `magnitude` | ? | ? |
-| `year` | Anos entre 2007 e 2018 a que os valores se referem | Inteiro >= 0 |
-| `data_value` | ? | Inteiro >= 0 |
+| `region` | Regiões da Nova Zelândia | West Coast |
+| `anzsic_descriptor` | Australian New Zealand Standard Industrial Classification, ou seja, o setor que está a produzir os gases estufa | Agriculture |
+| `gas` | Nome do gás estufa emitido | Carbon Dioxide |
+| `units` | Unidades da quantidade de gases | Kilotoneladas |
+| `magnitude` | Dados Errados | - |
+| `year` | Anos entre 2007 e 2018 a que os valores se referem | YYYY |
+| `data_value` | ? | Float >= 0 |
