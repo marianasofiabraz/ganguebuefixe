@@ -34,4 +34,4 @@ Statz NZ: https://www.stats.govt.nz/
 | `units` | Unidades da quantidade de gases | Kilotoneladas |
 | `magnitude` | Dados Errados | - |
 | `year` | Anos entre 2007 e 2018 a que os valores se referem | YYYY |
-| `data_value` | ? | Float >= 0 |
+| `data_value` | Quantidade do gás em kilotoneladas | Float >= 0 |
