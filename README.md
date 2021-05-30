@@ -12,6 +12,8 @@ Neste conjunto de dados existem alguns valores que estão em falta e, como é ó
 
 O ficheiro CSV estava complementado por 7 colunas de dados, duas das quais decidimos remover. A coluna "anzsic _descriptor" não foi utilizada em nenhum contexto dentro do projeto, portanto achámos que seria mais conciso manter apenas as colunas utilizadas. Para além desta coluna, também removemos a coluna "magnitude" pois em todos os seus registos, apenas existia um valor - "Carbon dioxide equivalents" - e pensamos que se trata de um erro na entrada dos dados, logo não hesitámos na sua remoção. Apesar de não termos utilizado a coluna "year", pensamos que a sua existência completa o contexto do tema, logo decidimos mantê-la.
 
+Além disto, à medida que foram criadas novas DataFrames baseadas na original, foram eliminadas as colunas não utilizadas naquele caso. Por exemplo, para analisar a quantidade total de gases por cada região, foi criada uma dataframe apenas com a coluna "Region" e a coluna "Total Data Value", pois estas eram as únicas importantes neste contexto.
+
 🤔 **Contexto:**
 
 Com o aumento da preocupação em salvar o nosso planeta tornou-se urgente compreender como é que cada zona está ou não a contribuir para isso. Assim, com esta análise das **emissões de gases estufa entre 2007 e 2018 na Nova Zelândia**, conseguimos perceber exatamente o impacto que as suas diversas regiões tem na poluição do ar, no aumento do efeito estufa e na destruição da camada de ozono. 
