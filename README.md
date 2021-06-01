@@ -27,6 +27,9 @@ Statz NZ: https://www.stats.govt.nz/
 🧱 **Estrutura:**
 
 `grenhouse.csv`: Contém os dados relativos ás emissões de greenhouse gases por região entre 2007 e 2018.
+``
+``
+``
 
 📔 **Dicionário dos dados:**
 
