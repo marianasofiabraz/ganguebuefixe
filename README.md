@@ -27,8 +27,11 @@ Statz NZ: https://www.stats.govt.nz/
 🧱 **Estrutura:**
 
 `README.md`: Contém todo o tipo de informações sobre o nosso projeto.
+
 `grenhouse.csv`: Contém os dados relativos ás emissões de greenhouse gases por região entre 2007 e 2018.
+
 `MarianaBraz_PedroCosta.ipynb` : Contém todo o código feito para a análise dos dados.
+
 `MarianaBraz_PedroCosta.png`: Contém um poster com informação resumida sobre os dados e os gráficos principais obtidos da análise.
 
 📔 **Dicionário dos dados:**
