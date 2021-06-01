@@ -1,6 +1,6 @@
 # GREENHOUSE GASES IN NEW ZEALAND 
 
-📅️ **Última actualização**: 27 de maio de 2021
+📅️ **Última actualização**: 30 de maio de 2021
 
 ❗️If you would like an english version, please contact me or my colleague❗️
 
